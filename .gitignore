@@ -1,0 +1,13 @@
+node_modules
+*.py[co]
+__pycache__
+*.egg-info
+*~
+*.bak
+.ipynb_checkpoints
+.tox
+.DS_Store 
+\#*#
+.#*
+.coverage
+.pytest_cache
